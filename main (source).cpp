@@ -16,6 +16,6 @@ int main(int argc, char const* argv[])
     {
         system("ping example.com /n 4 /l 40 /w 15");
     }
-
+    return(0);
 
 }
